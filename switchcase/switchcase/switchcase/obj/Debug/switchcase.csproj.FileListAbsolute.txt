@@ -1,0 +1,6 @@
+F:\c#\Day-02\switchcase\switchcase\switchcase\bin\Debug\switchcase.exe.config
+F:\c#\Day-02\switchcase\switchcase\switchcase\obj\Debug\switchcase.csprojResolveAssemblyReference.cache
+F:\c#\Day-02\switchcase\switchcase\switchcase\bin\Debug\switchcase.exe
+F:\c#\Day-02\switchcase\switchcase\switchcase\bin\Debug\switchcase.pdb
+F:\c#\Day-02\switchcase\switchcase\switchcase\obj\Debug\switchcase.exe
+F:\c#\Day-02\switchcase\switchcase\switchcase\obj\Debug\switchcase.pdb

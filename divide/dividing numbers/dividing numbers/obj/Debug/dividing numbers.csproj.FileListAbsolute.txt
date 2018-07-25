@@ -1,0 +1,6 @@
+F:\c#\Day-02\divide\dividing numbers\dividing numbers\bin\Debug\dividing numbers.exe.config
+F:\c#\Day-02\divide\dividing numbers\dividing numbers\bin\Debug\dividing numbers.exe
+F:\c#\Day-02\divide\dividing numbers\dividing numbers\bin\Debug\dividing numbers.pdb
+F:\c#\Day-02\divide\dividing numbers\dividing numbers\obj\Debug\dividing numbers.csprojResolveAssemblyReference.cache
+F:\c#\Day-02\divide\dividing numbers\dividing numbers\obj\Debug\dividing numbers.exe
+F:\c#\Day-02\divide\dividing numbers\dividing numbers\obj\Debug\dividing numbers.pdb

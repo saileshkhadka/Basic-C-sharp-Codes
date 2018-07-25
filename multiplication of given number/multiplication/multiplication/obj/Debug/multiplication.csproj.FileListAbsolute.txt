@@ -1,0 +1,5 @@
+F:\c#\Day-02\multiplication of given number\multiplication\multiplication\bin\Debug\multiplication.exe.config
+F:\c#\Day-02\multiplication of given number\multiplication\multiplication\bin\Debug\multiplication.exe
+F:\c#\Day-02\multiplication of given number\multiplication\multiplication\bin\Debug\multiplication.pdb
+F:\c#\Day-02\multiplication of given number\multiplication\multiplication\obj\Debug\multiplication.exe
+F:\c#\Day-02\multiplication of given number\multiplication\multiplication\obj\Debug\multiplication.pdb

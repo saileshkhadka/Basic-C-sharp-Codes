@@ -1,0 +1,6 @@
+F:\c#\Day-02\Swaptwonumbers\swappingnumbers\swappingnumbers\bin\Debug\swappingnumbers.exe.config
+F:\c#\Day-02\Swaptwonumbers\swappingnumbers\swappingnumbers\bin\Debug\swappingnumbers.exe
+F:\c#\Day-02\Swaptwonumbers\swappingnumbers\swappingnumbers\bin\Debug\swappingnumbers.pdb
+F:\c#\Day-02\Swaptwonumbers\swappingnumbers\swappingnumbers\obj\Debug\swappingnumbers.csprojResolveAssemblyReference.cache
+F:\c#\Day-02\Swaptwonumbers\swappingnumbers\swappingnumbers\obj\Debug\swappingnumbers.exe
+F:\c#\Day-02\Swaptwonumbers\swappingnumbers\swappingnumbers\obj\Debug\swappingnumbers.pdb

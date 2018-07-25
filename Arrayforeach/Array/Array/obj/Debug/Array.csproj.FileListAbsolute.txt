@@ -1,0 +1,5 @@
+F:\c#\Day-02\Arrayforeach\Array\Array\bin\Debug\Array.exe.config
+F:\c#\Day-02\Arrayforeach\Array\Array\bin\Debug\Array.exe
+F:\c#\Day-02\Arrayforeach\Array\Array\bin\Debug\Array.pdb
+F:\c#\Day-02\Arrayforeach\Array\Array\obj\Debug\Array.exe
+F:\c#\Day-02\Arrayforeach\Array\Array\obj\Debug\Array.pdb

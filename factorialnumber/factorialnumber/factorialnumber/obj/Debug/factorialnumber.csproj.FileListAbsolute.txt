@@ -1,0 +1,6 @@
+F:\c#\Day-02\factorialnumber\factorialnumber\factorialnumber\bin\Debug\factorialnumber.exe.config
+F:\c#\Day-02\factorialnumber\factorialnumber\factorialnumber\obj\Debug\factorialnumber.csprojResolveAssemblyReference.cache
+F:\c#\Day-02\factorialnumber\factorialnumber\factorialnumber\bin\Debug\factorialnumber.exe
+F:\c#\Day-02\factorialnumber\factorialnumber\factorialnumber\bin\Debug\factorialnumber.pdb
+F:\c#\Day-02\factorialnumber\factorialnumber\factorialnumber\obj\Debug\factorialnumber.exe
+F:\c#\Day-02\factorialnumber\factorialnumber\factorialnumber\obj\Debug\factorialnumber.pdb

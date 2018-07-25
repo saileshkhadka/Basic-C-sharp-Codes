@@ -1,0 +1,6 @@
+F:\c#\Day-02\testforcall\practice\practice\bin\Debug\practice.exe.config
+F:\c#\Day-02\testforcall\practice\practice\bin\Debug\practice.exe
+F:\c#\Day-02\testforcall\practice\practice\bin\Debug\practice.pdb
+F:\c#\Day-02\testforcall\practice\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+F:\c#\Day-02\testforcall\practice\practice\obj\Debug\practice.exe
+F:\c#\Day-02\testforcall\practice\practice\obj\Debug\practice.pdb

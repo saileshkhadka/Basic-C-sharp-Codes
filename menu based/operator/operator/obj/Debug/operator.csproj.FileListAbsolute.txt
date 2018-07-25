@@ -1,0 +1,6 @@
+F:\c#\Day-02\menu based\operator\operator\bin\Debug\@operator.exe.config
+F:\c#\Day-02\menu based\operator\operator\bin\Debug\@operator.exe
+F:\c#\Day-02\menu based\operator\operator\bin\Debug\@operator.pdb
+F:\c#\Day-02\menu based\operator\operator\obj\Debug\operator.csprojResolveAssemblyReference.cache
+F:\c#\Day-02\menu based\operator\operator\obj\Debug\@operator.exe
+F:\c#\Day-02\menu based\operator\operator\obj\Debug\@operator.pdb

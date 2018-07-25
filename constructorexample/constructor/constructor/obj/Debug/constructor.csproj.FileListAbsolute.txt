@@ -1,0 +1,6 @@
+F:\c#\Day-02\constructorexample\constructor\constructor\bin\Debug\constructor.exe.config
+F:\c#\Day-02\constructorexample\constructor\constructor\bin\Debug\constructor.exe
+F:\c#\Day-02\constructorexample\constructor\constructor\bin\Debug\constructor.pdb
+F:\c#\Day-02\constructorexample\constructor\constructor\obj\Debug\constructor.csprojResolveAssemblyReference.cache
+F:\c#\Day-02\constructorexample\constructor\constructor\obj\Debug\constructor.exe
+F:\c#\Day-02\constructorexample\constructor\constructor\obj\Debug\constructor.pdb

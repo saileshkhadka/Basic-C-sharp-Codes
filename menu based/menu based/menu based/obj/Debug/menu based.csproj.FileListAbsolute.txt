@@ -1,0 +1,6 @@
+F:\c#\Day-02\menu based\menu based\menu based\bin\Debug\menu based.exe.config
+F:\c#\Day-02\menu based\menu based\menu based\bin\Debug\menu based.exe
+F:\c#\Day-02\menu based\menu based\menu based\bin\Debug\menu based.pdb
+F:\c#\Day-02\menu based\menu based\menu based\obj\Debug\menu based.csprojResolveAssemblyReference.cache
+F:\c#\Day-02\menu based\menu based\menu based\obj\Debug\menu based.exe
+F:\c#\Day-02\menu based\menu based\menu based\obj\Debug\menu based.pdb

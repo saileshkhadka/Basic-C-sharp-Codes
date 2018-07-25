@@ -1,0 +1,6 @@
+F:\c#\Day-02\Result\Resultbased\Resultbased\bin\Debug\Resultbased.exe.config
+F:\c#\Day-02\Result\Resultbased\Resultbased\bin\Debug\Resultbased.exe
+F:\c#\Day-02\Result\Resultbased\Resultbased\bin\Debug\Resultbased.pdb
+F:\c#\Day-02\Result\Resultbased\Resultbased\obj\Debug\Resultbased.csprojResolveAssemblyReference.cache
+F:\c#\Day-02\Result\Resultbased\Resultbased\obj\Debug\Resultbased.exe
+F:\c#\Day-02\Result\Resultbased\Resultbased\obj\Debug\Resultbased.pdb

@@ -1,0 +1,7 @@
+F:\c#\Day-02\multiplication table\assignment2\assignment2\bin\Debug\assignment2.exe.config
+F:\c#\Day-02\multiplication table\assignment2\assignment2\bin\Debug\assignment2.exe
+F:\c#\Day-02\multiplication table\assignment2\assignment2\bin\Debug\assignment2.pdb
+F:\c#\Day-02\multiplication table\assignment2\assignment2\obj\Debug\assignment2.csprojResolveAssemblyReference.cache
+F:\c#\Day-02\multiplication table\assignment2\assignment2\obj\Debug\assignment2.exe
+F:\c#\Day-02\multiplication table\assignment2\assignment2\obj\Debug\assignment2.pdb
+F:\c#\Day-02\multiplication table\assignment2\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache

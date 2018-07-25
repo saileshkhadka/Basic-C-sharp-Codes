@@ -1,0 +1,6 @@
+F:\c#\Day-02\class1\assignment\assignment\bin\Debug\assignment.exe.config
+F:\c#\Day-02\class1\assignment\assignment\bin\Debug\assignment.exe
+F:\c#\Day-02\class1\assignment\assignment\bin\Debug\assignment.pdb
+F:\c#\Day-02\class1\assignment\assignment\obj\Debug\assignment.csprojResolveAssemblyReference.cache
+F:\c#\Day-02\class1\assignment\assignment\obj\Debug\assignment.exe
+F:\c#\Day-02\class1\assignment\assignment\obj\Debug\assignment.pdb
